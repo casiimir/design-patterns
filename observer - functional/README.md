@@ -3,7 +3,7 @@
 `observer.js`
 
 - `subscribe` a function to the observer
-- `unsubscribe` a function to the observer
+- `unsubscribe` a function from the observer
 - `trigger` all listening functions from the observer
 
 <hr>
